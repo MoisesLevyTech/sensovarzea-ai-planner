@@ -8,7 +8,7 @@ Assistente inteligente de planejamento e gestão de projetos de PD&I na Amazôni
 Projetos de PD&I em ambientes de várzea e condições ambientais exigentes enfrentam desafios como alta umidade e condensação em bancadas e sensores, instabilidade energética e de conectividade, bem como o risco de leituras inconsistentes ou falsos alertas em condições extremas. Sem integração entre tarefas, rotina, riscos e acompanhamento, falhas e desvios tendem a ser identificados tardiamente.
 
 ## 2. O Diferencial da Solução
-A solução une uma estrutura relacional no Notion — centrada na base Plano de Ação e ligada a Rotina, Obstáculos e Acompanhamento — com um conjunto de habilidades modulares de IA na pasta `habilidades/` para apoiar cada etapa do ciclo de PD&I.
+A solução une uma estrutura relacional no Notion — centrada na base Plano de Ação e ligada a Rotina, Obstáculos e Acompanhamento — com um conjunto de habilidades modulares de IA na pasta habilidades/ para apoiar cada etapa do ciclo de PD&I.
 
 ## 3. Estrutura das Quatro Bases do Notion
 - **Plano de Ação (Base Central):** tarefas, fases, prazos, prioridades e status.
