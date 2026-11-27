@@ -2,19 +2,19 @@
 
 Assistente inteligente de planejamento e gestão de projetos de PD&I na Amazônia.
 
-> **Aviso de Estudo de Caso e Simulação:** O **SensoVárzea** é um estudo de caso fictício para demonstrar a organização de um fluxo de PD&I. As datas (dezembro de 2026), os valores de progresso (`35`, `60` e `85`), os registros de acompanhamento e os resultados apresentados são **simulações** ilustrativas.
+> **Aviso de Estudo de Caso e Simulação:** O **SensoVárzea** é um estudo de caso fictício para demonstrar a organização de um fluxo de PD&I. As datas (dezembro de 2026), os valores de progresso (35, 60 e 85), os registros de acompanhamento e os resultados apresentados são **simulações** ilustrativas.
 
 ## 1. O Problema
 Projetos de PD&I em ambientes de várzea e condições ambientais exigentes enfrentam desafios como alta umidade e condensação em bancada e sensores, instabilidade energética e de conectividade, bem como risco de leituras inconsistentes ou falsos alertas em condições extremas. Sem integração entre tarefas, rotina, riscos e acompanhamento, falhas e desvios tendem a ser percebidos tarde.
 
 ## 2. O Diferencial da Solução
-A solução une uma estrutura relacional no Notion — centrada na base **Plano de Ação** e ligada a **Rotina**, **Obstáculos** e **Acompanhamento** — com um conjunto de habilidades modulares de IA em `habilidades/` para apoiar cada etapa do ciclo de PD&I.
+A solução une uma estrutura relacional no Notion — centrada na base **Plano de Ação** e ligada a **Rotina**, **Obstáculos** e **Acompanhamento** — com um conjunto de habilidades modulares de IA na pasta `habilidades/` para apoiar cada etapa do ciclo de PD&I.
 
 ## 3. Estrutura das Quatro Bases do Notion
 - **Plano de Ação (Base Central):** tarefas, fases, prazos, prioridades e status.
-- **Rotina:** planejamento semanal de atividades e relação com as tarefas do *Plano de Ação*.
-- **Obstáculos:** mapeamento de riscos, categoria, severidade, status (`Monitorar`, `Em mitigação`), plano de ação mitigadora e relação com *Plano de Ação*.
-- **Acompanhamento:** ciclos simulados (`Ciclo 1`, `Ciclo 2`, `Ciclo 3`), datas de dezembro de 2026, progresso numérico (`35`, `60`, `85`), principais avanços, desvios/gargalos, ajustes de rota e relação com *Plano de Ação*.
+- **Rotina:** planejamento semanal de atividades e relação com as tarefas do Plano de Ação.
+- **Obstáculos:** mapeamento de riscos, categoria, severidade, status ("Monitorar", "Em mitigação"), plano de ação mitigadora e relação com Plano de Ação.
+- **Acompanhamento:** ciclos simulados ("Ciclo 1", "Ciclo 2", "Ciclo 3"), datas de dezembro de 2026, progresso numérico (35, 60 e 85), principais avanços, desvios/gargalos, ajustes de rota e relação com Plano de Ação.
 
 ## 4. As Seis Habilidades de IA Desenvolvidas
 1. **Definir Objetivo (`habilidades/01-definir-objetivo.md`):** estrutura e clarifica os objetivos do projeto.
